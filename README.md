@@ -51,7 +51,8 @@ open new terminal
 
 npm install
 
-Run npm start
+npm run dev
+
 
 ## 👤 Author
 Created by MD.Newaj Sharif
